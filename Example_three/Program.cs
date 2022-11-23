@@ -1,7 +1,7 @@
-﻿int array = { 1, 12, 31, 31, 15, 16, 17, 18 };
+﻿int[] array = { 1, 12, 31, 31, 15, 16, 17, 18 };
 
-int n = array.Lengtn;
-int find = 4;
+int n = array.Length;
+int find = 31;
 
 int index = 0;
 
